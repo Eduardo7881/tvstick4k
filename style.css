@@ -1,0 +1,94 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  .container-search {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+  }
+  .search-container {
+    margin-top: 20px;
+  }
+  .search-input {
+    width: 500px;
+    height: 40px;
+    font-size: 16px;
+    padding: 10px;
+
+    border: none;
+    margin: 0;
+    color: rgb(78, 78, 78);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    border-radius: 4px;
+  }
+  .search-button {
+    height: 40px;
+    font-size: 16px;
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #fff;
+  }
+
+  .who-are-me {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid gray;
+}
+
+  .menu-bar {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.discord {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-bottom: 3px solid gray;
+}
+
+.features {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 3px solid gray;
+}
+
+.discord iframe {
+    margin-top: 20px;
+}
+
+.discord h1, .discord h2 {
+    margin-bottom: 20px;
+}
+
+.discord p {
+    margin: 10px 0;
+}
+
+.menu-bar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.main-section-home {
+    text-align: center;
+    padding: 50px;
+}
+
+.about {
+    background: rgb(71, 71, 71);
+    color: #c9c9c9;
+}
